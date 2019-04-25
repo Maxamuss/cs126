@@ -25,7 +25,7 @@
  * and looking a mutual relationships very easy.
  *
  *
- * @author: 1801383
+ * 
  */
 
 package uk.ac.warwick.java.cs126.services;
