@@ -4,10 +4,6 @@
  * with storage not being an immediate issue as user experience is the most
  * important thing to increase.
  *
- *
- *
- *
- * @author: 1801383
  */
 
 package uk.ac.warwick.java.cs126.services;
