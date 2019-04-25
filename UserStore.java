@@ -25,7 +25,7 @@
  * uses more space than other algorithms, but as I explained about, that is not
  * to much of an issue.
  *
- * @author: 1801383
+ * 
  */
 
 package uk.ac.warwick.java.cs126.services;
